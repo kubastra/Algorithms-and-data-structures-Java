@@ -1,0 +1,1 @@
+Create a base class called Animal with a method makeSound() that prints a generic sound. Then create two subclasses, Cat and Dog, that override the makeSound() method to print "Meow" and "Woof" respectively. Your program should take an integer as input, create an object of the corresponding subclass (1 for Cat, 2 for Dog), and call its makeSound() method.
